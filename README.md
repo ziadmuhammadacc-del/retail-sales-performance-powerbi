@@ -14,6 +14,7 @@ The report combines sales, cost, store, category, and date information to provid
 - Total Gross Margin
 - Sales Year-to-Date (YTD)
 - Performance analysis across stores and categories
+![Sales Dashboard](Sales_Dashboard.png)
 
 ### 2. Cost & Target Analysis
 - Total Cost
@@ -21,6 +22,7 @@ The report combines sales, cost, store, category, and date information to provid
 - Target Sales
 - Difference from Target
 - Payroll Percentage
+![Cost & Target Dashboard](Cost_Target_Dashboard.png)
 
 ## Data Model
 The project uses multiple data tables covering:
